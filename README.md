@@ -4,7 +4,7 @@ Page Maker is a simple and intuitive app designed to streamline the process of c
 # Download
 You can **download** the **latest version** of **Page Maker** from the following:
 
-[![Download Page Maker App](https://img.shields.io/badge/Download-Page%20Maker%20App-cyan?style=for-the-badge)](https://github.com/Harkamal1/Page-Maker/raw/main/Page%20Maker.apk)
+[![Download Page Maker App](https://img.shields.io/badge/Download-Page%20Maker%20App-cyan?style=for-the-badge)](https://github.com/Harkamal1/PageMaker/raw/main/Page%20Maker.apk)
 
 Click on the "Download Page Maker" button above to get the app on your device and start creating professional front pages for your project files.
 
