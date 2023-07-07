@@ -8,15 +8,6 @@ You can **download** the **latest version** of **Page Maker** from the following
 
 Click on the "Download Page Maker" button above to get the app on your device and start creating professional front pages for your project files.
 
-## Key Features✨
-**💡 Effortless Input**: Page Maker offers a user-friendly interface where you can effortlessly enter your essential details. Simply fill in the required fields, and the app takes care of the rest.
-
-**🎨 Customizable Front Pages:** Personalize your front pages to meet your specific requirements. Page Maker adheres to the format provided by the Innocent Hearts Group of Institutions, ensuring compliance while allowing you to add your personal touch.
-
-**📚 Multiple Page Generation:** Generate front pages for multiple project files in a breeze. With Page Maker, you can specify the desired number of front pages to be created, making it convenient for handling numerous projects simultaneously.
-
-**📁 Seamless PDF Export:** Once you have created all the necessary front pages, Page Maker seamlessly combines them into a single PDF file. This consolidated file can be easily saved, printed, or shared, providing you with a complete set of front pages for your project files.
-
 ## Getting Started
 To get started with Page Maker, follow these simple steps:
 
@@ -27,6 +18,15 @@ To get started with Page Maker, follow these simple steps:
 5. 📄 **Click** on the **"Create PDF"** button to **generate** the front pages.
 6. 🔄 Once the front pages are generated, the app will **combine** them into a PDF file.
 7. 💾 You can then **save**, **print**, or **share** the PDF file as needed.
+
+## Key Features✨
+**💡 Effortless Input**: Page Maker offers a user-friendly interface where you can effortlessly enter your essential details. Simply fill in the required fields, and the app takes care of the rest.
+
+**🎨 Customizable Front Pages:** Personalize your front pages to meet your specific requirements. Page Maker adheres to the format provided by the Innocent Hearts Group of Institutions, ensuring compliance while allowing you to add your personal touch.
+
+**📚 Multiple Page Generation:** Generate front pages for multiple project files in a breeze. With Page Maker, you can specify the desired number of front pages to be created, making it convenient for handling numerous projects simultaneously.
+
+**📁 Seamless PDF Export:** Once you have created all the necessary front pages, Page Maker seamlessly combines them into a single PDF file. This consolidated file can be easily saved, printed, or shared, providing you with a complete set of front pages for your project files.
 
 ## Contributing
 We welcome contributions to enhance and improve Page Maker. If you have any suggestions, bug reports, or feature requests, please submit them to the Issues section.
